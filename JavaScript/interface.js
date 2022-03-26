@@ -34,6 +34,6 @@ function updateSquares() {
     })
 }
 
-function resetGame(){
- 
+function resetGame(event){
+    let reset = document.addEventListener('reset', )
 }
